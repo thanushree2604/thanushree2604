@@ -56,28 +56,54 @@
 </p>
 
 ---
-
 ## 📌 Featured Projects
 
-### 🤖 AI-Based Cheating Detection
-- Real-time exam monitoring using computer vision
-- Behavioral anomaly detection
-- Machine learning automation
+### 📊 Bank Marketing Performance Analytics Dashboard | Power BI
+- Developed an interactive Power BI dashboard to analyze bank marketing campaign performance.
+- Configured KPI visuals to monitor conversion rates, deposit trends, and customer engagement.
+- Processed and modeled data using Power Query and DAX to generate actionable business insights.
 
-### 🎤 Voice Controlled Object Detection
-- YOLO + OpenCV object recognition
-- Voice-based commands
-- Real-time AI interaction
+---
 
-### 🤟 Sign Language Gesture Recognition
-- MediaPipe + OpenCV gesture detection
-- Text-to-speech output
-- Accessibility-focused solution
+### 📈 Marketing Campaign Performance Analytics Dashboard | Power BI
+- Evaluated campaign effectiveness using CTR, ROI, impressions, and engagement metrics.
+- Implemented DAX calculations and refined datasets using Power Query for accurate reporting.
+- Delivered performance insights across marketing channels, audiences, and geographic regions.
 
-### 📊 Power BI Analytics Dashboards
-- Bank marketing performance tracking
-- Campaign ROI & engagement analysis
-- Data modeling using Power Query & DAX
+---
+
+### 🎓 Learning Analytics & Student Performance Dashboard | React, JavaScript, REST APIs
+- Built a responsive web-based analytics dashboard to monitor learner activity and academic performance.
+- Integrated REST APIs for real-time data retrieval and reporting.
+- Designed modular UI components to visualize key learning KPIs and trends.
+
+---
+
+### 🤖 Voice-Enabled Real-Time Object Detection System | YOLO, OpenCV
+- Engineered an AI-powered real-time object detection system using YOLO and OpenCV.
+- Implemented voice-based controls for hands-free interaction and accessibility.
+- Enabled real-time object recognition through computer vision techniques.
+
+---
+
+### 🎯 AI-Based Cheating Detection System
+- Developed an AI system for automated online exam monitoring.
+- Implemented behavioral anomaly detection using computer vision.
+- Improved accuracy of automated proctoring using machine learning models.
+
+---
+
+### 🤟 Sign Language Gesture Recognition System
+- Built a real-time gesture recognition system using MediaPipe and OpenCV.
+- Implemented text-to-speech output for accessibility support.
+- Detected hand gestures such as thumbs-up, peace sign, and fist with high accuracy.
+
+---
+
+### 🎵 Audio Player Mobile Application
+- Developed a mobile application to manage and play audio files.
+- Built using Android Studio (Java/Kotlin).
+- Designed clean and responsive user interface for enhanced user experience.
 
 ---
 
