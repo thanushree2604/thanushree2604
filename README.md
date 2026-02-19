@@ -1,4 +1,4 @@
-![banner](https://www.canva.com/design/DAHBxQNwnBI/0Oj82Fyw8ND5mazS1pHJLw/edit?utm_content=DAHBxQNwnBI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![banner](https://github.com/thanushree2604/thanushreens/blob/main/p.png)
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;AI+ML+Enthusiast;Power+BI+Developer;Python+Programmer&center=true&width=500&height=50">
