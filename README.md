@@ -1,14 +1,17 @@
 ![banner](https://github.com/thanushree2604/thanushreens/blob/main/p.png)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;AI+ML+Enthusiast;Power+BI+Developer;Python+Programmer&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Data+Science+Enthusiast;Power+BI+Developer;AI+ML+Explorer;Python+Developer&center=true&width=550&height=50">
 </p>
 
 <h1 align="center">Hi 👋, I'm Thanushree N S</h1>
-<h3 align="center">Data Analyst | AI/ML Enthusiast | Dashboard Developer</h3>
+
+<h3 align="center">
+Data Analyst | Data Science Enthusiast | AI/ML Developer | Dashboard Developer
+</h3>
 
 <p align="center">
-🎓 B.Tech CSE (Data Science) Student <br>
+🎓 B.Tech CSE (Data Science) <br>
 📍 Bangalore, Karnataka, India <br>
 📧 thanushree2612@gmail.com
 </p>
@@ -17,126 +20,205 @@
 
 ## 🚀 About Me
 
-- 📊 Data Analyst Intern with experience in **data analysis, business intelligence, and dashboard development**
-- 🐍 Strong in **Python, SQL, Power BI, and Exploratory Data Analysis**
-- 📈 Transforming raw data into actionable business insights
-- 🤖 Interested in **AI, Machine Learning, and Data Science solutions**
-- 🎯 Goal: Data Scientist / Data Analyst role
+- 🎓 Computer Science Engineering (Data Science) student passionate about **Data Analytics, AI, Machine Learning, and Software Development**
+- 📊 Experienced in **Python, SQL, Power BI, Data Cleaning, EDA, and Dashboard Development**
+- 🤖 Building AI-based solutions using **Machine Learning, Computer Vision, and Data Analytics**
+- 💻 Interested in transforming data into meaningful business insights
+- 🎯 Looking for opportunities as **Data Analyst / Data Scientist / AI-ML Developer**
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### Data Analyst Intern — EDU TANTR (Aug 2025 – Nov 2025)
+## 📊 Data Analyst Intern — EDU TANTR
+**Aug 2025 – Nov 2025 | Bengaluru**
 
-✔ Analyzed and cleaned 10,000+ records using Python & SQL  
-✔ Generated data-driven insights for decision-making  
-✔ Built datasets for dashboards and analytical models  
-✔ Improved data reliability by 20%  
-✔ Collaborated with cross-functional teams  
+- Analyzed and cleaned **10,000+ records** using Python and SQL
+- Performed data preprocessing and exploratory data analysis
+- Developed analytical reports and dashboards for insights
+- Improved data accuracy through validation and quality checks
+- Collaborated with team members to deliver analytics solutions
 
 ---
 
-## 🛠 Tech Stack
+## 🤖 Data Science Intern — ORVIONAR TECH PRIVATE LTD
+**Jan 2026 – Apr 2026 | Bengaluru**
 
-### Programming
+- Worked on data preprocessing, analysis, and machine learning workflows
+- Applied Python and SQL skills in real-time assignments
+- Improved problem-solving and analytical thinking through industry projects
+
+---
+
+# 🛠 Technical Skills
+
+## Programming
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://skillicons.dev/icons?i=python,mysql,java,html,css,js" />
 </p>
 
-### Data Analytics & Visualization
-- Power BI (DAX, Power Query, Dashboarding)
-- Excel (Pivot Tables, VLOOKUP, Charts)
+
+## Data Analytics
+
+- Python (Pandas, NumPy)
+- SQL / MySQL
+- Data Cleaning
 - Exploratory Data Analysis (EDA)
+- Power BI
+- Excel
+- DAX
+- Power Query
 
-### Tools
+
+## Development Tools
+
 <p>
-<img src="https://skillicons.dev/icons?i=github,vscode,mysql" />
-<img src="https://img.icons8.com/color/48/power-bi.png" height="48"/>
+<img src="https://skillicons.dev/icons?i=github,vscode,react,docker" />
 </p>
 
----
-## 📌 Featured Projects
 
-### 📊 Bank Marketing Performance Analytics Dashboard | Power BI
-- Developed an interactive Power BI dashboard to analyze bank marketing campaign performance.
-- Configured KPI visuals to monitor conversion rates, deposit trends, and customer engagement.
-- Processed and modeled data using Power Query and DAX to generate actionable business insights.
+## AI / Machine Learning
 
----
-
-### 📈 Marketing Campaign Performance Analytics Dashboard | Power BI
-- Evaluated campaign effectiveness using CTR, ROI, impressions, and engagement metrics.
-- Implemented DAX calculations and refined datasets using Power Query for accurate reporting.
-- Delivered performance insights across marketing channels, audiences, and geographic regions.
+- Machine Learning Algorithms
+- Scikit-learn
+- Computer Vision
+- YOLO
+- OpenCV
+- Speech Recognition
 
 ---
 
-### 🎓 Learning Analytics & Student Performance Dashboard | React, JavaScript, REST APIs
-- Built a responsive web-based analytics dashboard to monitor learner activity and academic performance.
-- Integrated REST APIs for real-time data retrieval and reporting.
-- Designed modular UI components to visualize key learning KPIs and trends.
+# 📌 Featured Projects
+
+
+## 📊 Bank Marketing Performance Analytics Dashboard | Power BI
+
+- Developed an interactive dashboard to analyze marketing campaign performance
+- Used Power Query and DAX for data modeling and calculations
+- Tracked KPIs including:
+  - ROI
+  - CTR
+  - Conversion Rate
+  - Customer Engagement
+
 
 ---
 
-### 🤖 Voice-Enabled Real-Time Object Detection System | YOLO, OpenCV
-- Engineered an AI-powered real-time object detection system using YOLO and OpenCV.
-- Implemented voice-based controls for hands-free interaction and accessibility.
-- Enabled real-time object recognition through computer vision techniques.
+## 🎓 Learning Analytics & Student Performance Dashboard
+
+**React | JavaScript | REST APIs**
+
+- Built a responsive analytics dashboard for student performance monitoring
+- Integrated REST APIs for dynamic data visualization
+- Designed reusable UI components for reporting
+
 
 ---
 
-### 🎯 AI-Based Cheating Detection System
-- Developed an AI system for automated online exam monitoring.
-- Implemented behavioral anomaly detection using computer vision.
-- Improved accuracy of automated proctoring using machine learning models.
+## 🤖 Voice Enabled Real-Time Object Detection System
+
+**YOLO | OpenCV | Speech Recognition**
+
+- Developed AI-based object detection using computer vision
+- Added voice command functionality for hands-free interaction
+- Performed testing and optimization for better accuracy
+
 
 ---
 
-### 🤟 Sign Language Gesture Recognition System
-- Built a real-time gesture recognition system using MediaPipe and OpenCV.
-- Implemented text-to-speech output for accessibility support.
-- Detected hand gestures such as thumbs-up, peace sign, and fist with high accuracy.
+## ❤️ Heart Disease Prediction using Machine Learning
+
+**Python | Scikit-learn | Pandas | NumPy**
+
+- Built ML models for heart disease prediction
+- Performed preprocessing and exploratory data analysis
+- Compared algorithms including:
+  - Logistic Regression
+  - Decision Tree
+  - Random Forest
+
 
 ---
 
-### 🎵 Audio Player Mobile Application
-- Developed a mobile application to manage and play audio files.
-- Built using Android Studio (Java/Kotlin).
-- Designed clean and responsive user interface for enhanced user experience.
+## 🪖 IoT Smart Helmet Safety System
+
+- Developed an IoT-based safety monitoring system
+- Implemented:
+  - Helmet detection
+  - Alcohol sensing
+  - Accident alert mechanism
+- Worked on sensor data monitoring and troubleshooting
+
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-🎓 B.Tech CSE (Data Science) — Garden City University (2022–2026) — CGPA: 8.5  
-📘 PUC Science — 85%  
-🏫 SSLC — 94%
+🎓 **Garden City University, Bangalore**  
+B.Tech Computer Science Engineering (Data Science)  
+2022 – 2026  
+CGPA: 8.5/10
+
+
+📘 **Kapilamma PU College**  
+PUC Science  
+85%
+
+
+🏫 **Navodaya High School**  
+SSLC  
+94%
 
 ---
 
-## 🏆 Certifications
+# 🏆 Certifications
 
 ✔ CCNA Switching, Routing & Wireless  
 ✔ PCAP – Programming Essentials in Python  
 ✔ NDG Linux Unhatched  
 ✔ Introduction to Data Science  
+✔ Full Stack Web Development with AI Tools  
+✔ AI for Entrepreneurship – Intel | NITI Aayog | AIM
 
 ---
 
-## 🌐 Connect With Me
+# 🌟 Achievements
 
-LinkedIn: https://linkedin.com/in/thanushree-n-s-20aa482a0  
-GitHub: https://github.com/thanushree2604  
+⭐ Improved dashboard accuracy by 20% through data validation and cleaning
+
+⭐ Built Power BI dashboards for business performance tracking
+
+⭐ Developed AI-powered voice-controlled object detection system
+
+⭐ Created real-time projects involving Data Science, AI, and Analytics
 
 ---
 
-## 📊 GitHub Stats
+# 🌐 Connect With Me
+
+<p>
+
+LinkedIn:  
+https://linkedin.com/in/thanushree-n-s-20aa482a0
+
+
+GitHub:  
+https://github.com/thanushree2604
+
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=thanushree2604&show_icons=true&theme=tokyonight" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanushree2604&layout=compact&theme=tokyonight" />
+
 </p>
+
 
 ---
 
