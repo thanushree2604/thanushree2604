@@ -1,162 +1,142 @@
-# Hi 👋, I'm Thanushree N S
+![banner](https://github.com/thanushree2604/thanushreens/blob/main/p.png)
 
-🎓 B.Tech Computer Science Engineering (Data Science) Student  
-📍 Bangalore, Karnataka, India  
-💡 Aspiring Data Analyst | Data Scientist | IT Support Engineer  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;AI+ML+Enthusiast;Power+BI+Developer;Python+Programmer&center=true&width=500&height=50">
+</p>
 
-[LinkedIn](https://linkedin.com/in/thanushree-n-s-20aa482a0) | 
-[GitHub](https://github.com/thanushree2604)
+<h1 align="center">Hi 👋, I'm Thanushree N S</h1>
+<h3 align="center">Data Analyst | AI/ML Enthusiast | Dashboard Developer</h3>
 
----
-
-## 👩‍💻 About Me
-
-I am a Computer Science Engineering (Data Science) student with hands-on experience in Python, SQL, Data Analytics, Machine Learning, Power BI, and Full Stack Development.
-
-I enjoy solving real-world problems through data analysis, automation, and technology. I have worked on projects involving dashboards, machine learning models, AI-based object detection, and IT service management systems.
-
-Currently looking for entry-level opportunities in:
-- Data Analyst
-- Data Science
-- IT Support / Service Desk
-- Software Development roles
+<p align="center">
+🎓 B.Tech CSE (Data Science) Student <br>
+📍 Bangalore, Karnataka, India <br>
+📧 thanushree2612@gmail.com
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 About Me
 
-### Programming & Database
-- Python
-- SQL (MySQL)
-- Pandas
-- NumPy
+- 📊 Data Analyst Intern with experience in **data analysis, business intelligence, and dashboard development**
+- 🐍 Strong in **Python, SQL, Power BI, and Exploratory Data Analysis**
+- 📈 Transforming raw data into actionable business insights
+- 🤖 Interested in **AI, Machine Learning, and Data Science solutions**
+- 🎯 Goal: Data Scientist / Data Analyst role
 
-### Data Analytics
-- Data Cleaning
+---
+
+## 💼 Experience
+
+### Data Analyst Intern — EDU TANTR (Aug 2025 – Nov 2025)
+
+✔ Analyzed and cleaned 10,000+ records using Python & SQL  
+✔ Generated data-driven insights for decision-making  
+✔ Built datasets for dashboards and analytical models  
+✔ Improved data reliability by 20%  
+✔ Collaborated with cross-functional teams  
+
+---
+
+## 🛠 Tech Stack
+
+### Programming
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+### Data Analytics & Visualization
+- Power BI (DAX, Power Query, Dashboarding)
+- Excel (Pivot Tables, VLOOKUP, Charts)
 - Exploratory Data Analysis (EDA)
-- Power BI
-- Excel
-- Dashboard Development
-- Data Visualization
-
-### Web Development
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- REST APIs
-- Bootstrap
-
-### IT & Networking
-- Windows OS
-- IP Addressing
-- DNS
-- DHCP
-- Network Troubleshooting
-- Ticket Handling
-- Incident Management
-- SLA Basics
 
 ### Tools
-- GitHub
-- VS Code
-- Power BI
-- Docker (Basics)
-- AWS Cloud Concepts (Basics)
+<p>
+<img src="https://skillicons.dev/icons?i=github,vscode,mysql" />
+<img src="https://img.icons8.com/color/48/power-bi.png" height="48"/>
+</p>
+
+---
+## 📌 Featured Projects
+
+### 📊 Bank Marketing Performance Analytics Dashboard | Power BI
+- Developed an interactive Power BI dashboard to analyze bank marketing campaign performance.
+- Configured KPI visuals to monitor conversion rates, deposit trends, and customer engagement.
+- Processed and modeled data using Power Query and DAX to generate actionable business insights.
 
 ---
 
-# 💼 Internship Experience
-
-## Data Analyst Intern — EDU TANTR
-📅 Aug 2025 – Nov 2025 | Bengaluru
-
-- Cleaned and analyzed 10,000+ records using Python and SQL.
-- Created reports and insights to improve data accuracy.
-- Worked with team members to solve data-related issues.
-- Performed data validation and analysis tasks.
+### 📈 Marketing Campaign Performance Analytics Dashboard | Power BI
+- Evaluated campaign effectiveness using CTR, ROI, impressions, and engagement metrics.
+- Implemented DAX calculations and refined datasets using Power Query for accurate reporting.
+- Delivered performance insights across marketing channels, audiences, and geographic regions.
 
 ---
 
-## Data Science Intern — ORVIONAR TECH PRIVATE LTD
-📅 Jan 2026 – Apr 2026 | Bengaluru
-
-- Worked on data preprocessing and analysis.
-- Applied Python-based problem-solving approaches.
-- Improved analytical and technical skills through real-time assignments.
+### 🎓 Learning Analytics & Student Performance Dashboard | React, JavaScript, REST APIs
+- Built a responsive web-based analytics dashboard to monitor learner activity and academic performance.
+- Integrated REST APIs for real-time data retrieval and reporting.
+- Designed modular UI components to visualize key learning KPIs and trends.
 
 ---
 
-# 🚀 Projects
-
-## 📊 Bank Marketing Performance Analytics Dashboard
-**Tech:** Power BI, Power Query, DAX
-
-- Built an interactive dashboard to analyze marketing campaigns.
-- Generated insights on customer engagement and business performance.
-- Created visual reports for decision-making.
+### 🤖 Voice-Enabled Real-Time Object Detection System | YOLO, OpenCV
+- Engineered an AI-powered real-time object detection system using YOLO and OpenCV.
+- Implemented voice-based controls for hands-free interaction and accessibility.
+- Enabled real-time object recognition through computer vision techniques.
 
 ---
 
-## 🎓 Learning Analytics & Student Performance Dashboard
-**Tech:** React.js, JavaScript, REST APIs
-
-- Developed a responsive dashboard for student performance tracking.
-- Integrated APIs for real-time data visualization.
-
----
-
-## 🤖 Voice Enabled Object Detection System
-**Tech:** YOLO, OpenCV, Speech Recognition
-
-- Developed an AI-based real-time object detection system.
-- Added voice-based interaction for accessibility.
-- Performed testing and optimization.
+### 🎯 AI-Based Cheating Detection System
+- Developed an AI system for automated online exam monitoring.
+- Implemented behavioral anomaly detection using computer vision.
+- Improved accuracy of automated proctoring using machine learning models.
 
 ---
 
-## ❤️ Heart Disease Prediction using Machine Learning
-**Tech:** Python, Scikit-learn, Pandas, NumPy
-
-- Built ML models for disease prediction.
-- Applied preprocessing and exploratory data analysis.
-- Compared algorithms like Logistic Regression, Decision Tree, and Random Forest.
+### 🤟 Sign Language Gesture Recognition System
+- Built a real-time gesture recognition system using MediaPipe and OpenCV.
+- Implemented text-to-speech output for accessibility support.
+- Detected hand gestures such as thumbs-up, peace sign, and fist with high accuracy.
 
 ---
 
-## 🎫 IT Service Desk & Incident Ticket Management System
-
-- Developed ticket creation and tracking modules.
-- Implemented authentication, dashboard, status tracking, and feedback features.
-- Improved understanding of troubleshooting workflows and support operations.
-
----
-
-# 📜 Certifications
-
-- CCNA Switching, Routing & Wireless
-- PCAP – Programming Essentials in Python
-- NDG Linux Unhatched
-- Introduction to Data Science
-- Full Stack Web Development with AI Tools
-- AI for Entrepreneurship – Intel | NITI Aayog | Atal Innovation Mission
+### 🎵 Audio Player Mobile Application
+- Developed a mobile application to manage and play audio files.
+- Built using Android Studio (Java/Kotlin).
+- Designed clean and responsive user interface for enhanced user experience.
 
 ---
 
-# 🏆 Achievements
+## 🎓 Education
 
-- Improved data accuracy by 20% through validation and cleaning.
-- Built Power BI dashboards for business insights.
-- Developed AI-based object detection solutions.
-- Created real-time projects involving analytics, ML, and automation.
+🎓 B.Tech CSE (Data Science) — Garden City University (2022–2026) — CGPA: 8.5  
+📘 PUC Science — 85%  
+🏫 SSLC — 94%
 
 ---
 
-# 📈 GitHub Stats
+## 🏆 Certifications
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanushree2604&show_icons=true)
+✔ CCNA Switching, Routing & Wireless  
+✔ PCAP – Programming Essentials in Python  
+✔ NDG Linux Unhatched  
+✔ Introduction to Data Science  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanushree2604&layout=compact)
+---
+
+## 🌐 Connect With Me
+
+LinkedIn: https://linkedin.com/in/thanushree-n-s-20aa482a0  
+GitHub: https://github.com/thanushree2604  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=thanushree2604&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanushree2604&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
