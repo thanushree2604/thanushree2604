@@ -157,7 +157,7 @@ Data Analyst | Data Science Enthusiast | AI/ML Developer | Dashboard Developer
 🎓 **Garden City University, Bangalore**  
 B.Tech Computer Science Engineering (Data Science)  
 2022 – 2026  
-CGPA: 8.5/10
+CGPA: 8.94/10
 
 
 📘 **Kapilamma PU College**  
